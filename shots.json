@@ -1,5 +1,1 @@
-[
-  { "name": "1-start.jpg", "query": "?shot=start&seed=1" },
-  { "name": "2-play.jpg", "query": "?shot=play&seed=1" },
-  { "name": "3-end.jpg", "query": "?shot=end&seed=1" }
-]
+[{"name":"1-chase.jpg","query":"?shot=chase&seed=1","subject":"Police pursuit: two cruisers behind the player's car, wanted stars, HUD, minimap and mission objective","viewport":{"height":800,"width":1280}},{"name":"2-drive.jpg","query":"?shot=drive&seed=1","subject":"Driving through the city in traffic","viewport":{"height":800,"width":1280}},{"name":"3-foot.jpg","query":"?shot=foot&seed=1","subject":"On foot in the city with pedestrians and the mission marker","viewport":{"height":800,"width":1280}},{"name":"4-mission.jpg","query":"?shot=mission&seed=1","subject":"Mission in progress: objective text and the gold marker","viewport":{"height":800,"width":1280}}]

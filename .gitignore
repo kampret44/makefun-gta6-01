@@ -1,0 +1,7 @@
+out/
+node_modules/
+.DS_Store
+*.log
+# editor backup files
+*.swp
+*~
